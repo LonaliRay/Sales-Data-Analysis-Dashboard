@@ -1,7 +1,7 @@
-📊 Shop Name Store – Sales Data Analysis Dashboard
+📊 Sales Data Analysis Dashboard
    Project Overview
 
-The Shop Name Store Sales Analysis Dashboard is a Power BI project developed to analyze and visualize sales data for better business understanding and decision-making. The dashboard provides interactive insights into sales performance, profit trends, customer behavior, and product category analysis.
+The Sales Analysis Dashboard is a Power BI project developed to analyze and visualize sales data for better business understanding and decision-making. The dashboard provides interactive insights into sales performance, profit trends, customer behavior, and product category analysis.
 
 This project helps identify key business opportunities, monitor overall performance, and improve strategic planning through data-driven insights.
 
