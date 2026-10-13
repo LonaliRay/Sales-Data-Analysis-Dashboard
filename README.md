@@ -1,38 +1,50 @@
-📊 Sales Data Analysis Dashboard
-   Project Overview
+# 📊ShopNest Sales Data Analysis Dashboard
 
-The Sales Analysis Dashboard is a Power BI project developed to analyze and visualize sales data for better business understanding and decision-making. The dashboard provides interactive insights into sales performance, profit trends, customer behavior, and product category analysis.
+## Project Overview
+The Sales Analysis Dashboard is a Power BI project developed to analyze and visualize sales data for better business understanding and decision-making. It provides interactive insights into sales performance, profit trends, customer behavior, and product category analysis.
+
+**Business problem:** The business needed one view of sales and profit performance across products, categories and regions to spot growth opportunities and weak areas.
 
 This project helps identify key business opportunities, monitor overall performance, and improve strategic planning through data-driven insights.
 
-🎯 Objectives
+## 🎯 Objectives
+- ✔️ Analyze overall sales and profit performance
+- ✔️ Track monthly and yearly sales trends
+- ✔️ Identify top-selling products and categories
+- ✔️ Compare regional sales performance
+- ✔️ Generate actionable insights for business growth
 
-✔️ Analyze overall sales and profit performance
-✔️ Track monthly and yearly sales trends
-✔️ Identify top-selling products and categories
-✔️ Compare regional sales performance
-✔️ Generate actionable insights for business growth
+## 🛠️ Tools & Technologies
+- Power BI
+- Excel / CSV dataset
+- Data cleaning and transformation
+- DAX calculations
+- Data visualization and dashboard design
 
-🛠️ Tools & Technologies
+## 📈 Dashboard Features
+- Interactive sales and profit dashboard
+- Regional and category-wise performance analysis
+- Monthly revenue trend visualization
+- KPI cards for sales, profit, and quantity
+- Dynamic filters and slicers for better analysis
 
-🔹 Power BI
-🔹 Excel / CSV Dataset
-🔹 Data Cleaning & Transformation
-🔹 DAX Calculations
-🔹 Data Visualization & Dashboard Design
+## 📊 Key Insights
+- ✔️ Identified high-performing products and categories
+- ✔️ Analyzed customer purchasing patterns
+- ✔️ Tracked profit margins across different regions
+- ✔️ Improved reporting with interactive visualizations
+- **Add 2 or 3 numbers from your dashboard**, for example: total sales [X], total profit [X], top category [name] at [X%] of sales, best region [name].
 
-📈 Dashboard Features
-Interactive sales and profit dashboard
-Regional and category-wise performance analysis
-Monthly revenue trend visualization
-KPI cards for sales, profit, and quantity
-Dynamic filters and slicers for better analysis
-📊 Key Insights
+## 📸 Dashboard Preview
+<img width="895" height="512" alt="Dashboard page 1" src="https://github.com/user-attachments/assets/07edea46-c4fa-4e6e-9497-a5c3eedc148f" />
+<img width="904" height="507" alt="Dashboard page 2" src="https://github.com/user-attachments/assets/2567c510-93f9-490f-beac-885d5821e5b0" />
 
-✔️ Identified high-performing products and categories
-✔️ Analyzed customer purchasing patterns
-✔️ Tracked profit margins across different regions
-✔️ Improved reporting with interactive visualizations
+## 🏁 Conclusion
+This dashboard transforms raw sales data into meaningful business insights, enabling better performance tracking and smarter business decisions. It demonstrates practical skills in data analysis, visualization, and business intelligence using Power BI.
+
+## 👨‍💻 Author
+**Lonali Ray**
+[LinkedIn](your-linkedin-link) | [GitHub](https://github.com/LonaliRay)
 
 📸 Dashboard Preview
 
